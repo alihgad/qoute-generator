@@ -15,8 +15,6 @@ var qoute = document.getElementById("quote"),
 
 function displayQoute() {
     var randomNumber = Math.random()*qoutes.length
-    console.log(Math.floor(randomNumber));
-
     if (qoutes[Math.floor(randomNumber)] ==  qoute.innerHTML ) {
         displayQoute()
     }else{
