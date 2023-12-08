@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(../wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg) ;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Agbalumo;
+
+}
+
+.container-fluid{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+@font-face {
+    font-family:Agbalumo ;
+    src: url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+}
+/* @import ; */
+
+
+
